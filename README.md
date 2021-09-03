@@ -24,5 +24,5 @@ The usage is as simple as running the following command:
 
 You can omit the `--to-csv` flag to get a space separated fields.
 
-You can then open the final file in the tool of your choice (Numpy, Pandas, libreOffice Calc, etc.).
+You can then open the final file using the tool of your choice (Numpy, Pandas, libreOffice Calc, etc.).
 
