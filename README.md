@@ -10,6 +10,11 @@ This is a simple script written in AWK to parse the content of `forces.dat` file
 ```
 git clone https://github.com/s1291/parseForces.git
 ```
+* Make the script as executable:
+
+```
+chmod +x parseForces
+```
 
 The usage is as simple as running the following command:
 
