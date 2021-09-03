@@ -8,13 +8,13 @@
 # values (by default) or a Comma Separated Values (CSV) file.                     #
 #                                                                                 #
 #=============================== USAGE: ==========================================#
-#  													                              #
+#  						                                  #
 # <this-script> [--to-csv] path/to/the/file/forces.dat > forces.csv               #
-#																				  #
+#									          #
 #============================= LAST UPDATE: ======================================#
-# Date: Sep 3, 2021																  #
-#																				  #
-# AUTHOR: S.OUCHENE																  #
+# Date: Sep 3, 2021		  			                          #
+#						  		                  #
+# AUTHOR: S.OUCHENE			 			                  #
 ###################################################################################
 
 function printUsage(){
